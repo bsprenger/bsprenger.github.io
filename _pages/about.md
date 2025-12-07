@@ -1,25 +1,27 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "👋 Hi, I'm Ben"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I'm bsprenger, a software engineer and robotics enthusiast passionate about reinforcement learning, simulation environments, and building cool things with code.
+- 🤖 current: **controls software engineer** @ [Kodiak AI](https://kodiak.ai/), where I'm working on autonomous vehicles
+- 🧠 side interests: [spaced repetition systems](https://en.wikipedia.org/wiki/Spaced_repetition)
 
-I'm interested in exploring the intersection of robotics, machine learning, and software engineering. This site is where I share my projects, experiments, and learnings in these areas.
+I build autonomous robotics systems that actually touch the real world.
 
-## Interests
-
-- **Robotics & Simulation**: Working with simulation environments and robotics frameworks
-- **Reinforcement Learning**: Exploring RL algorithms and their applications
-- **Machine Learning**: Imitation learning, policy learning, and practical ML implementations
-- **Software Engineering**: Building robust, well-designed systems
+This site is where I share my projects, experiments, and learnings in these areas.
 
 ## Recent Work
 
-I'm currently exploring integration of custom environments with machine learning frameworks like Hugging Face's LeRobot, and experimenting with various simulation platforms including PyBullet and Gymnasium.
+### 📘 Papers
+- [SwarmGPT: Combining Large Language Models with Safe Motion Planning for Drone Swarm Choreography](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11197931)
+
+## Get In Touch
+
+If you're curious to hear more about what I'm working on, reach out [on LinkedIn](https://www.linkedin.com/in/bensprenger/) or at `bensprenger1999 [at] gmail [dot] com`
+
 
 Check out my [blog posts](/year-archive/) to learn more about my projects and experiments!
