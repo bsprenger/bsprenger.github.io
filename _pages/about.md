@@ -8,14 +8,13 @@ redirect_from:
 ---
 
 - 🤖 current: **controls software engineer** @ [Kodiak AI](https://kodiak.ai/), where I'm working on autonomous vehicles
-- 🧠 side interests: [spaced repetition systems](https://en.wikipedia.org/wiki/Spaced_repetition)
+- 🧠 side interests: [spaced repetition systems](https://en.wikipedia.org/wiki/Spaced_repetition), reading [James Joyce](https://en.wikipedia.org/wiki/James_Joyce), and looking at [Lucian Freud](https://en.wikipedia.org/wiki/Lucian_Freud) paintings
 
 I build autonomous robotics systems that actually touch the real world.
 
-This site is where I share my projects, experiments, and learnings in these areas.
+This site is where I share my projects, experiments, and learnings in robotics, reinforcement learning, control theory, and physical simulation.
 
 ## Recent Work
-
 ### 📘 Papers
 - [SwarmGPT: Combining Large Language Models with Safe Motion Planning for Drone Swarm Choreography](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11197931)
 
