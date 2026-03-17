@@ -14,9 +14,7 @@ I'm a robotics software engineer with a focus on:
 I build **autonomous robotics** systems that **actually touch the real world**.
 
 - 🤖 Current: **controls software engineer** @ [Kodiak AI](https://kodiak.ai/), where I'm working on **autonomous vehicles** 🚚
-- ✨ Side interests: [spaced repetition systems](https://en.wikipedia.org/wiki/Spaced_repetition), reading [James Joyce](https://en.wikipedia.org/wiki/James_Joyce), and looking at [Lucian Freud](https://en.wikipedia.org/wiki/Lucian_Freud) paintings
-
-This site is where I share my projects, experiments, and learnings.
+- ✨ Side interests: [spaced repetition systems](https://gwern.net/spaced-repetition), reading [James Joyce](https://en.wikipedia.org/wiki/James_Joyce), and looking at [Lucian Freud](https://en.wikipedia.org/wiki/Lucian_Freud) paintings
 
 ## Recent Work
 ### 📘 Papers
