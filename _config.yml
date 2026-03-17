@@ -25,9 +25,9 @@ author:
   avatar           : "IMG_8075.JPG"
   name             : "Ben Sprenger"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics software engineer passionate about reinforcement learning, control theory, and simulation"
-  location         : # Location
-  employer         : # Employer
+  bio              : "Autonomous vehicles @ Kodiak AI 🚛\nMSc in Robotics @ ETH Zürich 🤖\nInterested in robotics, reinforcement learning, control theory and optimization."
+  location         : "San Francisco"
+  employer         : "Kodiak AI"
   uri              : # URL
   email            : "bensprenger1999@gmail.com"
 
